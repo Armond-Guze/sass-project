@@ -3,10 +3,10 @@ import playbutton from "../assets/playbutton.png";
 
 const Header = () => {
   return (
-    <div className="p-8 justify-center flex flex-col text-center">
+    <div className="justify-center flex flex-col text-center">
       <h1 className="text-7xl font-semibold">
         Accounting <span className="text-blue-500">made simple</span> <br />
-        for small businesses
+        for small businesses.
       </h1>
       <div>
         <h1 className="mt-8 text-gray-700 text-lg">
