@@ -6,7 +6,7 @@ const CompaniesCard = () => {
     <div className="flex flex-col mt-32 items-center">
       <h1>Trusted by these six commpanies so far</h1>
       <div className="flex flex-col items-center">
-        <ul className="grid grid-cols-3 gap-y-10 space-x-10 opacity-80 text-center mt-8 text-2xl list-none">
+        <ul className="grid grid-cols-3 gap-y-10 space-x-10 opacity-70 text-center mt-8 text-2xl list-none">
           <li className="flex items-center justify-center">
             <AiFillAlert className="h-12 w-12" />
             Transistor

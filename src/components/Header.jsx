@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className="justify-center flex flex-col text-center">
       <h1 className="text-7xl font-semibold">
-        Accounting <span className="text-blue-500">made simple</span> <br />
+        Accounting <span className="text-blue-500 text-gradient-to-bl from-blue-500 to-purple-700">made simple</span> <br />
         for small businesses.
       </h1>
       <div>
